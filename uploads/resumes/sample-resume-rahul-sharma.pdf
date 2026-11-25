@@ -1,0 +1,33 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 998 >> stream
+BT /F1 11 Tf 54 740 Td (Rahul Sharma - Senior Full Stack Developer) Tj ET
+BT /F1 11 Tf 54 722 Td (Indore, Madhya Pradesh | rahul.sharma@example.com) Tj ET
+BT /F1 11 Tf 54 704 Td (SUMMARY) Tj ET
+BT /F1 11 Tf 54 686 Td (Full-stack developer with 5+ years of experience.) Tj ET
+BT /F1 11 Tf 54 668 Td (Experienced in React, Node.js, Express and MongoDB.) Tj ET
+BT /F1 11 Tf 54 650 Td (EXPERIENCE) Tj ET
+BT /F1 11 Tf 54 632 Td (Senior Developer - Malwa Digital Technologies \(2022 - Present\)) Tj ET
+BT /F1 11 Tf 54 614 Td (Developed scalable MERN applications and REST APIs.) Tj ET
+BT /F1 11 Tf 54 596 Td (Software Developer - Narmada Infotech \(2019 - 2022\)) Tj ET
+BT /F1 11 Tf 54 578 Td (Built responsive websites and enterprise applications.) Tj ET
+BT /F1 11 Tf 54 560 Td (EDUCATION) Tj ET
+BT /F1 11 Tf 54 542 Td (B.Tech Computer Science - DAVV Indore) Tj ET
+BT /F1 11 Tf 54 524 Td (SKILLS) Tj ET
+BT /F1 11 Tf 54 506 Td (React, JavaScript, TypeScript, Node.js, Express, MongoDB, MySQL, AWS) Tj ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001289 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1359
+%%EOF

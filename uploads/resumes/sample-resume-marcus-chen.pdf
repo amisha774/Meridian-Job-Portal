@@ -1,0 +1,33 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 1253 >> stream
+BT /F1 11 Tf 54 740 Td (Marcus Chen - Senior Full-Stack Engineer) Tj ET
+BT /F1 11 Tf 54 722 Td (San Francisco, CA | marcus.chen@meridian.io | github.com/mchen) Tj ET
+BT /F1 11 Tf 54 704 Td (SUMMARY) Tj ET
+BT /F1 11 Tf 54 686 Td (Full-stack software engineer with 6+ years building TypeScript, React, Node.js, and MongoDB platforms.) Tj ET
+BT /F1 11 Tf 54 668 Td (Reduced API p95 latency by 42% and scaled real-time telemetry workflows to 120k daily users.) Tj ET
+BT /F1 11 Tf 54 650 Td (EXPERIENCE) Tj ET
+BT /F1 11 Tf 54 632 Td (Staff Software Engineer - Verve Systems \(2023 - Present\)) Tj ET
+BT /F1 11 Tf 54 614 Td (Built distributed Express microservices, GraphQL federation, Docker, and Kubernetes pipelines on AWS.) Tj ET
+BT /F1 11 Tf 54 596 Td (Senior Frontend Engineer - ArcLight Labs \(2020 - 2023\)) Tj ET
+BT /F1 11 Tf 54 578 Td (Architected design systems using React, TypeScript, Redux, and Tailwind CSS with 99% accessibility coverage.) Tj ET
+BT /F1 11 Tf 54 560 Td (EDUCATION) Tj ET
+BT /F1 11 Tf 54 542 Td (B.S. Computer Science - University of California, Berkeley) Tj ET
+BT /F1 11 Tf 54 524 Td (SKILLS) Tj ET
+BT /F1 11 Tf 54 506 Td (React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, Docker, AWS, GraphQL, Socket.IO, Redux) Tj ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001545 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1615
+%%EOF

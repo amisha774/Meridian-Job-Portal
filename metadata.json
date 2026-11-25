@@ -1,0 +1,6 @@
+{
+  "name": "Meridian — Job Portal Management System",
+  "description": "Full-stack MERN Job Portal Management System with role-based dashboards for Job Seekers, Recruiters, and Admins, real-time Socket.IO notifications, resume analysis, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
